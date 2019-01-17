@@ -7,5 +7,6 @@ A simple hello world program in C**/
 #include<stdio.h>
 int main(int argc, char **argv) {
   printf("Hello Bruno and Thomas\n");
+  printf("Computer Science");
   return 0;
 }
