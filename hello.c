@@ -8,5 +8,8 @@ A simple hello world program in C**/
 int main(int argc, char **argv) {
   printf("Hello Bruno");
   printf("Computer Science");
+  printf("\n");
+  printf("Thomas Casburn\n");
+  printf("Electrical Engineering\n");
   return 0;
 }
